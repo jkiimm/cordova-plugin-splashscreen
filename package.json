@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-splashscreen"
+    "url": "https://github.com/jkiimm/cordova-plugin-splashscreen"
   },
   "bugs": {
     "url": "https://issues.apache.org/jira/browse/CB"
