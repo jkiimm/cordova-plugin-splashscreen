@@ -42,7 +42,7 @@
 
 - (void)hide:(CDVInvokedUrlCommand*)command
 {
-    [self setVisible:NO andForce:YES];
+    [self setVisible:NO];
 }
 
 - (void)pageDidLoad
